@@ -1,5 +1,4 @@
 #Bản Quyền : Kiro (thực ra mình đi stolen code :3)
-import os, requests, time, random, bs4, sys, datetime, re, base64, urllib.parse, threading, cursor
 from pystyle import *
 class Main:
     def __init__(self):
